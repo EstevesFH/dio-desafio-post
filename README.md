@@ -1,4 +1,4 @@
-## DESAFIO DIO POST
+## PROJETO BACKEND COM NODE.JS E TYPESCRIPT
 
 ##### Repositório criado para armazenar o desafio criado pela plataforma Dio.
 
@@ -6,10 +6,9 @@
 
 * É considerada API Rest Full, pois possui o CRUD (Create, Ready, Update e Delete);
 
-* Desenvolvida com Node.js e JavaScript.
-
-
-
+* Desenvolvida com Node.js e TypeScript.
+  
+  
 
 ##### Comandos uteis para a criação do projeto
 
