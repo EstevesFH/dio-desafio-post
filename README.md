@@ -2,13 +2,15 @@
 
 ##### Repositório criado para armazenar o desafio criado pela plataforma Dio.
 
-* Esse projeto Backend foi desenvolvido usando a prática TDD;
-
-* É considerada API Rest Full, pois possui o CRUD (Create, Ready, Update e Delete);
-
-* Desenvolvida com Node.js e TypeScript.
+* Este projeto Backend foi elaborado utilizando a metodologia TDD (Test-Driven Development), o que garante uma abordagem robusta e orientada a testes desde o início do desenvolvimento.
   
+  Classificamos essa implementação como uma API Restful, uma vez que segue os princípios do CRUD (Create, Read, Update e Delete), proporcionando uma estrutura flexível e intuitiva para manipulação de dados.
   
+  Foi construída com tecnologias modernas, especificamente utilizando Node.js para o ambiente de execução e TypeScript para garantir maior segurança e robustez ao código-fonte. Essa combinação não só permite uma implementação mais eficiente, mas também facilita a manutenção e escalabilidade do sistema.
+  
+  Estou extremamente orgulhoso do resultado alcançado e confiante na capacidade desta solução em atender às demandas e expectativas do desafio criado pela plataforma [DIO](https://www.linkedin.com/in/marceloestevees/overlay/create-post/#).
+
+* 
 
 ##### Comandos uteis para a criação do projeto
 
